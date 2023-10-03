@@ -84,7 +84,7 @@ Whenever a ball collides with a circle, the circle flashes a brighter color of b
 <br>
 
 ### Sound Effects (1:03)
-I decided to compose a theme for the game. It doesn't have a name, but thought it would and to the game. I have included the sheet music of the song for anyone who is currious.
+I decided to compose a theme for the game. It doesn't have a name, but thought it would and to the game. I have included the sheet music of the song for anyone who is currious. It plays at the start of the game, reseting when the user presses "r" to reset the game. 
 
 <br>
 
